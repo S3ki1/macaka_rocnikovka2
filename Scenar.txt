@@ -1,0 +1,31 @@
+SCÉNA 1: HNÍZDO KOSIČKY V PARKU (STROM)
+Polda se setkává s rozrušenou kosičkou
+Objekty k sebrání: Pírko, Sklo
+Kombinace: Pírko + Sklo = PTAKOMPAS (kompas na cestu do lesa)
+Efekt: Odemyká cestu do lesa
+SCÉNA 2: LES
+Setkání s datelom
+Datel chce něco za pomoc
+Objekty k sebrání: Větévka, Mech, Dřevo
+Čekání na: Něco od potoka (kterým budeme koupit větévky + mech)
+Kombinace: Větévka + Mech + Dřevo = HNÍZDO (domov pro kosičku)
+Efekt: Hnízdo použijeme pro kosičku v další interakci
+SCÉNA 3: POTOK
+Setkání s ledňáčkem
+Objekty k sebrání: Oblíbené jídlo holuba (chováme skryté za keřem!)
+Cíl: Tohle jídlo později proměníme v součást řetězce
+SCÉNA 4: PARK (NÁVRAT) - INTERAKCE S KOSIČKOU
+Dáme kosičce HNÍZDO (kombinace z lesa)
+Kosička se přestěhuje a je vděčná
+Odměna: Dostaneme OBRÁZEK (mapu/vodítko)
+Objekty k sebrání: Peříčko (z parku/okolí)
+SCÉNA 5: BUK - SOVA VĚŠTKYNĚ
+Sova zná tajemství
+Kombinace: Obrázek + Peříčko = KOUZELNÝ PERGAMEN (souřadnice)
+Odměna: Sova nám dá SOUŘADNICE (kde je oblíbené jídlo holuba)
+Efekt: Ví si nyní kde jít - k potoku za keřem!
+SCÉNA 6: POTOK (ZNOVUNAVŠTÍVENÍ) - ZA KEŘEM
+Jdeme na souřadnice
+Objev: Noir (blond holub) má schované VEJÍČKA u svého oblíbeného jídla!
+Kombinace: Oblíbené jídlo holuba (ze scény 3) = NÁVNADA PRO NOIRA
+Efekt: Dáme Noirovi jeho oblíbené jídlo → Noir se odkazuje a my vezemeVEJÍČKA
