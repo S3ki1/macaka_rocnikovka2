@@ -3,6 +3,8 @@
 17.4.
 - VYTVOŘENÍ GITHUB REPOZITÁŘE 
 - DOHRÁL JSEM ZKUŠEBNÍ HRU POLDA
+20.4.
+- UPRAVENÍ SCÉNÁŘE A ZAČÁTEK KÓDU
 ## HRA INSPIROVANÁ POLDOU S PTÁKY
 - JAZYK: __C#__
 - FRAMEWORK: __WPF__
@@ -22,7 +24,3 @@
                → Dostáváme VAJÍČKA ✅
 9. SCÉNA 9 (Park - finále) → Vraciáme vajíčka KOSIČCE
                        → HAPPY END 🎉
-
-20.4.
-- UPRAVENÍ SCÉNÁŘE A ZAČÁTEK KÓDU
-
