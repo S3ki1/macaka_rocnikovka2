@@ -24,5 +24,5 @@
                        → HAPPY END 🎉
 
 20.4.
--UPRAVENÍ SCÉNÁŘE A ZAČÁTEK KÓDU
+- UPRAVENÍ SCÉNÁŘE A ZAČÁTEK KÓDU
 
