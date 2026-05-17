@@ -18,8 +18,7 @@
                         → Nám dá OBRÁZEK
 4. SCÉNA 4 (Potok) → Ledňáček: "Sova ví víc!"
 5. SCÉNA 5 (Buk - Sova) → Dáme OBRÁZEK
-                     → Sova dá INFO: "Bobule u potoka!"
-6. SCÉNA 6 (Potok - návrat) → Najdeme BOBULE
+                     → Sova dá bobule 
 7. SCÉNA 7 (Park) → Cesta do MĚSTA je otevřená
 8. SCÉNA 8 (Město) → NOIR blokuje cestu
                → Odlákáme ho BOBULEMI
