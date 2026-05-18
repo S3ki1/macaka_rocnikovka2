@@ -6,7 +6,8 @@
 ### 20.4.
 - UPRAVENÍ SCÉNÁŘE A ZAČÁTEK KÓDU
 - USPOŘÁDÁNÍ SOUBORŮ
-- 
+### 30. - 17. 5.
+- DODĚLÁNÍ SCÉN A NPC POSTAV
 ## HRA INSPIROVANÁ POLDOU S PTÁKY
 - JAZYK: __C#__
 - FRAMEWORK: __WPF__
